@@ -10,5 +10,5 @@ You need Python 3 and only the `requests` library installed.
 Install the pip package:
 
 ```
-pip install -U grafana_api requests
+pip3 install -U grafana_api requests
 ```
